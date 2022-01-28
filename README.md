@@ -12,13 +12,17 @@ Used AWS App Runner for deployment
 
 # How to use ?
 use this link in your URL 
+
 https://9rixmcvgdw.us-east-1.awsapprunner.com/
 output - {"message":"Hello Duke Student"}
 
-Now add /dukeid followed by /{INPUT YOUR DUKE ID} to your URL as shown below:
+Add /dukeid followed by /{INPUT YOUR DUKE ID} to your URL as shown below:
+
 https://9rixmcvgdw.us-east-1.awsapprunner.com/dukeid/bs332
 output - "Valid"
+
 Now enter an Invalid ID:
+
 https://9rixmcvgdw.us-east-1.awsapprunner.com/dukeid/23.
 "Not valid"
 
