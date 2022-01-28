@@ -11,7 +11,7 @@ Used IaC (Infrastructure as Code) to deploy code
 Used AWS App Runner for deployment
 
 # How to use ?
-use this link in your URL https://9rixmcvgdw.us-east-1.awsapprunner.com/
+use this link in your browser https://9rixmcvgdw.us-east-1.awsapprunner.com/
 
 output - {"message":"Hello Duke Student"}
 
