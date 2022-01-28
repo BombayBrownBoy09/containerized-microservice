@@ -21,6 +21,6 @@ output - "Valid"
 
 Now enter an Invalid ID: https://9rixmcvgdw.us-east-1.awsapprunner.com/dukeid/23.
 
-"Not valid"
+output - "Not valid"
 
 Note: a valid duke id is defined as one with 5 charachters only involving letters and numbers
